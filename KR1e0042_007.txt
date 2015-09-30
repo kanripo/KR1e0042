@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋比事
-#+DATE: 2015-09-23 09:39:39
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:14:04.841344
+#+PROPERTY: ID KR1e0042
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1e0042_WYG_007-1a>¶
 欽定四庫全書¶
 　春秋比事卷七　　　　　宋　沈棐　撰¶
@@ -434,4 +436,3 @@
 　¶
 　¶
 　春秋比事巻七¶
-
